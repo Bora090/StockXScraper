@@ -6,3 +6,6 @@
 - apollographql-client-version
 - app-version
 - cookie
+
+
+if you are seeing 403 responses you need to do the above steps
