@@ -18,7 +18,7 @@ class stockx:
             headers["apollographql-client-version"] = "22023.07.02.04"
             headers["app-platform"] = "Iron"
             headers["app-version"] = "2023.07.02.04"
-        headers["cookie"] = "__cf_bm=G WOgjPZGw2hvn9Ap8cO1Fz_D5x9rPZOPB2QO4w6PFs-1689254673-0-AfIzpsa20f3hFleB1dJzqYWc5ycLf7F1utEL79iYZwPFtzoxqJYgCAnSjMqxu9eOlXU/IF95CGS/sNKUmmBxyXc=; stockx_device_id=588830b3-eeb9-435b-86a9-4153e86e4de4; stockx_session_id=6debfd7e-064f-4388-9052-ebc64708ac88; stockx_session=f904cbf4-901d-4cf4-80b2-049ece985fe9; stockx_selected_region=NL; pxcts=9c2be902-2180-11ee-98ff-58564a46766d;"
+        headers["cookie"] = "__cf_bm=AO5RAt0eAvSC04oXNU6sM7ft7wpUkFSLN8DfKFTMs6I-1689256282-0-AaGZZAlEgTzJM68HoknKeGpFZYuLH19lYu4+/IpXUKQ7LynsO3fwtnV305wbydHYTRsgmahd0TWaInW50JWt4Lo=; stockx_device_id=588830b3-eeb9-435b-86a9-4153e86e4de4; stockx_session_id=6debfd7e-064f-4388-9052-ebc64708ac88; stockx_session=f904cbf4-901d-4cf4-80b2-049ece985fe9; stockx_selected_region=NL; pxcts=9c2be902-2180-11ee-98ff-58564a46766d;"
         return headers
 
     def allBrowseFilters(type: str = "navigation") -> dict:
